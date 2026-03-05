@@ -3,9 +3,7 @@ package com.a2z.ecommerce.dto;
 
 import lombok.*;
 
-@ToString
-@Getter
-@Setter
+@Data
 @AllArgsConstructor
 @NoArgsConstructor
 public class ProductResponse {
