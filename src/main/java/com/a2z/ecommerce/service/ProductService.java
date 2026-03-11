@@ -16,4 +16,6 @@ public interface ProductService {
 
         ProductResponse deleteProduct(Long productId);
 
+        ProductResponse getProductById(Long productId);
+
 }

@@ -16,5 +16,5 @@ public class ReviewRequest {
     private int rating;
     private LocalDate reviewDate;
     private Long customerId;
-    private long productId;
+    private Long productId;
 }
